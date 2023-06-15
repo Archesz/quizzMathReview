@@ -26,6 +26,11 @@ with st.sidebar:
     st.markdown("- [x] Inserido opções de diferentes disciplinas.")
     st.markdown("- [x] Inserido opção de inserir um novo conceito.")
 
+    st.write("Próximas Atualizações: ")
+    st.markdown("- [ ] Inserir as imagens para ajudar com as respostas.")
+    st.markdown("- [ ] Inserir mais matérias.")
+    
+
 # CSS
 local_css("style.css")
 
@@ -66,7 +71,7 @@ def adicionar_pergunta(disciplina, assunto, pergunta, resposta, img):
 df = pd.read_csv("flashs.csv")
 
 # -------- Main Page -------- #
-tab1, tab2, tab3 = st.tabs(["Flashcards", "Ranking", "Fontes"])
+tab1, tab2, tab3, tab4 = st.tabs(["Flashcards", "Ranking", "Sugerir Nova pergunta", "Banco de Perguntas"])
 
 respondidas = []
 
@@ -111,7 +116,9 @@ with tab2:
 
 with tab3:
     st.write("Sugerir inserção: ")
-    disciplina = st.selectbox("Disciplina: ", ["Matemática", "Física", "Biologia", "Química"])
+    st.write("Essa etapa ainda está em ajustes, não funciona no momento. Para sugestões contate o jovi diretamente: (19) 99539-7660")
+
+    disciplina = st.selectbox("Disciplina: ", ["Matemática", "Física", "Biologia"])
     
     if disciplina:
         assuntos = list(df.query(f"Disciplina == '{disciplina}'")["Assunto"].unique())
@@ -134,3 +141,20 @@ with tab3:
 
         st.success("Pergunta sugerida!")
         st.balloons()
+
+with tab4:
+    discp = st.selectbox("Matéria", ["Matemática", "Física", "Biologia"], key="filter")
+
+    if disciplina:
+        assuntos = list(df.query(f"Disciplina == '{discp}'")["Assunto"].unique())
+        assunto = st.selectbox("Assunto:", assuntos, key="assuntos")
+    
+        if assunto:
+            questoes = df.query(f"Disciplina == '{discp}' and Assunto == '{assunto}'")
+            perguntas = list(questoes["Pergunta"])
+            respostas = list(questoes["Resposta"])
+
+            pergunta = st.selectbox("Perguntas: ", perguntas)
+            if(pergunta):
+                st.write(respostas[perguntas.index(pergunta)])
+    
