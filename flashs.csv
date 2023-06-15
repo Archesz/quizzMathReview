@@ -1,0 +1,102 @@
+Disciplina,Assunto,Pergunta,Resposta,Imagem,Selecionada
+Matemática,Geometria,O que é um ponto?,"Um ponto é uma entidade fundamental que não tem dimensões. É considerado um objeto elementar, sem comprimento, largura ou altura.",0.0,0.0
+Matemática,Geometria,O que é uma reta?,Uma reta é um objeto geométrico fundamental. Uma linha inifita e sem curvas. É composta por uma sequência contínua de pontos.,0.0,0.0
+Matemática,Geometria,O que é um plano?,Um plano é um conceito matemático que pode ser descrito como uma superfíce plana e infinita que se estende para todas as dimensões. Composto por três pontos não colineares.,0.0,0.0
+Matemática,Geometria,O que significa pontos colineares?,São pontos que pertencem a uma mesma linha.,0.0,0.0
+Matemática,Geometria,Defina segmento de reta:,"Um segmento de reta é uma reta que possui um ponto inicial e final. Ou seja, é uma reta finita, ou uma parte de uma reta.",0.0,0.0
+Matemática,Geometria,Defina retas paralelas:,Retas paralelas são retas que NUNCA se encontram. Podemos traçar uma reta perpendicular que separa ambas.,0.0,0.0
+Matemática,Geometria,Defina retas perpendiculares:,São retas que formam um ângulo de 90º entre si.,0.0,0.0
+Matemática,Geometria,O que é uma semireta?,Uma semireta é uma reta que possui início e não possuí fim.,0.0,0.0
+Matemática,Geometria,O que é um raio?,Um raio é um segmento de reta que liga o centro de um círculo até qualquer ponto na circunferência de um círculo.,0.0,0.0
+Matemática,Geometria,O que é uma corda?,É um segmento que liga dois pontos quaisquer da circunferência sem passar pelo centro.,0.0,0.0
+Matemática,Geometria,O que é um diametro?,"É um segmento que liga dois pontos da circunferência, passando pelo centro do círculo",0.0,0.0
+Matemática,Geometria,O que é um ângulo?,Um ângulo é a união de duas semirretas com um vértice comum.,0.0,0.0
+Matemática,Geometria,O que é um vértice?,Encontro de duas semiretas.,0.0,0.0
+Matemática,Geometria,Defina ângulo agudo:,É um ângulo com menos de 90º,0.0,0.0
+Matemática,Geometria,Defina ângulo reto:,É um ângulo com 90º.,0.0,0.0
+Matemática,Geometria,Defina ângulo obtuso:,É um ângulo maior que 90º.,0.0,0.0
+Matemática,Geometria,Defina ângulo raso:,É um ângulo com 180º,0.0,0.0
+Matemática,Geometria,Quantos Graus tem um triângulo?,Qualquer triângulo possuí 180º.,0.0,0.0
+Matemática,Geometria,Quais são as classificações de um triângulo?,"Podemos classificar um triângulo como Escalenos (Três lados diferentes), Isósceles (Dois lados iguais) ou Equilátero (Três lados iguais).",0.0,0.0
+Matemática,Geometria,O que são retas transversais?,Retas transversais são retas que cruzam um par ou um feixe de retas paralelas.,0.0,0.0
+Matemática,Geometria,Em que tipo de triângulo podemos aplicar o Teorema de Pitagoras?,O teorema de pitagoras pode ser aplicado em triângulos retângulos.,0.0,0.0
+Matemática,Geometria,Qual é a hipotenusa e os catetos de um triângulo retângulo?,"A hipotenusa é o ângulo oposto ao ângulo reto, os catetos são os demais lados.",0.0,0.0
+Matemática,Geometria,Qual a fórmula do teorema de pitagoras?,a² + b² = c²,0.0,0.0
+Matemática,Geometria,O que é a Mediana de um triângulo?,Mediana é um segmento que divide as bases do triângulo em duas partes iguais. Dessa forma temos que mediana é um segmento de reta com origem em um dos vértices do triângulo e extremidade no ponto médio do lado oposto ao vértice.,0.0,0.0
+Matemática,Geometria,O que é a Bissetriz?,Bissetriz também é um segmento de reta com origem em um dos vértices do triângulo com a outra extremidade no lado oposto a esse vértice. Sendo que ela divide ao meio o ângulo correspondente ao vértice.,0.0,0.0
+Matemática,Geometria,O que é a altura de um triângulo?,Encontramos a medida da altura de um triângulo através de um segmento de reta com origem em um dos vértices e perpendicular (forma um ângulo de 90º) ao lado oposto.,0.0,0.0
+Matemática,Geometria,Como se calcula a área de um triângulo?,A = (b * h) / 2,0.0,0.0
+Matemática,Geometria,O que é o perimetro de uma figura plana?,Se trata da soma de TODOS os lados da figura.,0.0,0.0
+Matemática,Geometria,Como podemos definir um poligono?,"Poligonos são figuras fechadas com N lados. Existem dois tipos de polígonos, os regulares e os irregulares.",0.0,0.0
+Matemática,Geometria,Em que tipo de triângulo podemos aplicar o Teorema de Pitagoras?,O teorema de pitagoras pode ser aplicado em triângulos retângulos.,0.0,0.0
+Matemática,Geometria,Qual é a hipotenusa e os catetos de um triângulo retângulo?,"A hipotenusa é o ângulo oposto ao ângulo reto, os catetos são os demais lados.",0.0,0.0
+Matemática,Geometria,Qual a fórmula do teorema de pitagoras?,a² + b² = c²,0.0,0.0
+Matemática,Geometria,O que é a Mediana de um triângulo?,Mediana é um segmento que divide as bases do triângulo em duas partes iguais. Dessa forma temos que mediana é um segmento de reta com origem em um dos vértices do triângulo e extremidade no ponto médio do lado oposto ao vértice.,0.0,0.0
+Matemática,Geometria,O que é a Bissetriz?,Bissetriz também é um segmento de reta com origem em um dos vértices do triângulo com a outra extremidade no lado oposto a esse vértice. Sendo que ela divide ao meio o ângulo correspondente ao vértice.,0.0,0.0
+Matemática,Geometria,O que é a altura de um triângulo?,Encontramos a medida da altura de um triângulo através de um segmento de reta com origem em um dos vértices e perpendicular (forma um ângulo de 90º) ao lado oposto.,0.0,0.0
+Matemática,Geometria,Como se calcula a área de um triângulo?,A = (b * h) / 2,0.0,0.0
+Matemática,Geometria,O que é o perimetro de uma figura plana?,Se trata da soma de TODOS os lados da figura.,0.0,0.0
+Matemática,Geometria,Como podemos definir um poligono?,"Poligonos são figuras fechadas com N lados. Existem dois tipos de polígonos, os regulares e os irregulares.",0.0,0.0
+Matemática,Geometria,O que é um par ordenado?,Par ordenado é uma sequencia ordenada de valoresq ue representar uma coordenada no plano cartersiano.,0.0,0.0
+Matemática,Geometria,Qual a fórmula para calcular a área de um trapézio?,"Um trapézio é calculado com A = ((B+b) * h) / 2. Onde B é a base maior, b é a base menor e h é a altura.",0.0,0.0
+Matemática,Geometria,Qual a fórmula para Calcular a área de um losango?,A área de um Losango pode ser dada por A = (D * d) / 2. Onde D é a diagonal maior e d a diagonal menor.,0.0,0.0
+Matemática,Geometria,Defina a relação trigonométrica que representa o Seno:,O seno de um ângulo pode ser descrito como uma razão entre o cateto oposto e a hipotenusa de um triângulo.,0.0,0.0
+Matemática,Geometria,Defina a relação trigonométrica que representa o Coseno:,O coseno de um ângulo pode ser descrito como uma razão entre o cateto adjacente e a hipotenusa de um triângulo.,0.0,0.0
+Matemática,Geometria,Defina a relação trigonométrica que representa a Tangente:,A tangente de um ângulo pode ser descrita como uma razão entre o cateto oposto e o cateto adjacente de um triângulo.,0.0,0.0
+Matemática,Geometria,Qual é a soma dos ângulos externos de um triângulo?,Um triângulo sempre terá a soma dos ângulos externos como 360º,0.0,0.0
+Matemática,Geometria,O que é a mediatriz de um triângulo?,É uma reta perpendicular que passa pelo ponto médio de um segmento.,0.0,0.0
+Matemática,Geometria,O que é o ponto médio de um lado?,Ponto médio de um lado é o ponto que fica equidistante de ambos os vértices que formam aquele lado.,0.0,0.0
+Matemática,Geometria,O que é o baricentro de um triângulo?,É o encontro das medianas do triângulo.,0.0,0.0
+Matemática,Geometria,Como se calcula a soma dos ângulos internos de um poligono regular?,S=(n - 2) * 180º,0.0,0.0
+Física,Cinematica,O que é cinemática?,É o campo da física que estuda o movimento dos corpos sem levar em consideração as causas que o produzem.,0.0,0.0
+Física,Cinematica,O que é velocidade?,"É a taxa de variação do deslocamento de um objeto por unidade de tempo (Padrão é m/s, km/h)",0.0,0.0
+Física,Cinematica,O que é aceleração?,É a taxa de variação de um objeto por unidade de tempo: a = V/T,0.0,0.0
+Física,Cinematica,O que é movimento uniforme?,O movimento uniforme é aquele em que o objeto percorre distâncias iguais em intervalos de tempo iguais.,0.0,0.0
+Física,Cinematica,O que é movimento uniformemente acelerado?,O movimento uniformemente acelerado é aquele em que a aceleração do objeto é constante ao longo do tempo.,0.0,0.0
+Física,Cinematica,O que é deslocamento?,O deslocamento é a mudança de posição de um objeto em relação a um ponto de referência.,0.0,0.0
+Física,Cinematica,O que é lançamento oblíquo?,O lançamento oblíquo é um tipo de movimento em que um objeto é lançado em um ângulo em relação à horizontal.,0.0,0.0
+Física,Cinematica,O que é velocidade média?,A velocidade média é a razão entre o deslocamento de um objeto e o intervalo de tempo correspondente.,0.0,0.0
+Física,Cinematica,O que é o princípio da inércia?,"O princípio da inércia afirma que um objeto em repouso tende a permanecer em repouso, e um objeto em movimento tende a manter seu movimento em linha reta, a menos que uma força externa atue sobre ele.",0.0,0.0
+Física,Cinematica,O que é colisão Elástica?,Uma colisão elástica é aquela em que a energia cinética total do sistema é conservada antes e depois da colisão.,0.0,0.0
+Física,Cinematica,O que é colisão Inelástica?,"Uma colisão inelástica é aquela em que parte da energia cinética do sistema é perdida durante a colisão, resultando em uma deformação ou perda de energia.",0.0,0.0
+Física,Cinematica,O que é movimento circular Uniforme?,O movimento circular uniforme é aquele em que um objeto se move em uma trajetória circular com velocidade constante.,0.0,0.0
+Física,Cinematica,O que é frequência?,A frequência é o número de voltas completas ou ciclos que um objeto realiza em um determinado intervalo de tempo.,0.0,0.0
+Física,Cinematica,O que é período?,O período é o tempo necessário para um objeto completar uma volta completa em um movimento circular uniforme.,0.0,0.0
+Física,Cinematica,O que é velocidade angular?,"A velocidade angular é a taxa de variação do ângulo percorrido por um objeto em um movimento circular uniforme, por unidade de tempo.",0.0,0.0
+Física,Cinematica,Qual a fórmula da velocidade média?,V = S/T. S -> Espaço ou Deslocamento e T -> Tempo ,0.0,0.0
+Física,Elétrica,O que é carga elétrica?,"A carga elétrica é uma propriedade fundamental das partículas, como elétrons e prótons, que pode ser positiva ou negativa.",0.0,0.0
+Física,Elétrica,O que é corrente elétrica?,"A corrente elétrica é o fluxo de cargas elétricas em um circuito, medida em ampères (A).",0.0,0.0
+Física,Elétrica,O que é tensão elétrica?,"A tensão elétrica, também conhecida como diferença de potencial, é a medida da energia elétrica por unidade de carga, medida em volts (V).",0.0,0.0
+Física,Elétrica,O que é resistência elétrica?,"A resistência elétrica é a capacidade de um material ou componente de se opor à passagem de corrente elétrica, medida em ohms (Ω).",0.0,0.0
+Física,Elétrica,Qual é a lei de Ohm?,"A lei de Ohm afirma que a corrente elétrica em um circuito é diretamente proporcional à tensão aplicada e inversamente proporcional à resistência, dada pela fórmula I = V/R.",0.0,0.0
+Física,Elétrica,O que é potência elétrica?,"A potência elétrica é a taxa na qual a energia elétrica é transferida ou consumida, medida em watts (W).",0.0,0.0
+Física,Elétrica,O que é circuito em série?,"Um circuito em série é aquele em que os componentes elétricos estão conectados em uma única rota, de modo que a corrente passa por cada componente sucessivamente.",0.0,0.0
+Física,Elétrica,O que é circuito em paralelo?,"Um circuito em paralelo é aquele em que os componentes elétricos estão conectados em ramificações separadas, de modo que a corrente é dividida entre eles.",0.0,0.0
+Física,Elétrica,O que é a lei de Kirchhoff das correntes?,A lei de Kirchhoff das correntes estabelece que a soma das correntes em um nó (ponto de conexão) em um circuito elétrico fechado é igual a zero.,0.0,0.0
+Física,Elétrica,O que é capacitor?,A lei de Kirchhoff das tensões afirma que a soma das tensões em um circuito elétrico em uma malha fechada é igual a zero.,0.0,0.0
+Física,Elétrica,O que é indutor?,Um capacitor é um componente elétrico que armazena carga elétrica e energia em um campo elétrico.,0.0,0.0
+Física,Elétrica,O que é a lei de Joule?,Um indutor é um componente elétrico que armazena energia em um campo magnético quando uma corrente elétrica passa por ele.,0.0,0.0
+Biologia,Geral,O que é a mitose?,A mitose é o processo de divisão celular que resulta na formação de duas células filhas geneticamente idênticas à célula original.,0.0,0.0
+Biologia,Geral,O que é a meiose?,"A meiose é o processo de divisão celular que ocorre nas células germinativas, resultando na formação de células filhas com metade do número de cromossomos da célula original.",0.0,0.0
+Biologia,Geral,O que é a fotossíntese?,"A fotossíntese é o processo realizado pelos organismos fotossintetizantes, como as plantas, em que a energia luminosa é convertida em energia química, transformando dióxido de carbono e água em glicose e liberando oxigênio.",0.0,0.0
+Biologia,Geral,O que é a respiração celular?,"A respiração celular é o processo em que as células utilizam a glicose e o oxigênio para produzir energia na forma de adenosina trifosfato (ATP), liberando dióxido de carbono e água como subprodutos.",0.0,0.0
+Biologia,Geral,O que é o DNA?,O DNA é uma molécula presente em todas as células que contém as informações genéticas necessárias para o desenvolvimento e funcionamento dos organismos.,0.0,0.0
+Biologia,Geral,O que é evolução?,"A evolução é o processo gradual de mudança nas características hereditárias de uma população ao longo das gerações, geralmente devido à seleção natural.",0.0,0.0
+Biologia,,O que é um gene?,Um gene é uma sequência específica de DNA que contém as instruções para a produção de uma proteína ou para a regulação de processos celulares.,0.0,0.0
+Biologia,Geral,O que é ecossistema?,"Um ecossistema é uma comunidade de seres vivos interagindo entre si e com o ambiente físico ao seu redor, incluindo fatores bióticos (organismos) e abióticos (clima, solo, etc.).",0.0,0.0
+Biologia,Geral,Explique o que são hormônios:,"Os hormônios são substâncias químicas produzidas por glândulas endócrinas que regulam diversas funções do organismo, atuando como mensageiros químicos.",0.0,0.0
+Biologia,Geral,O que é a homeostase?,A homeostase é o processo de autorregulação do ambiente interno do organismo para manter condições estáveis e adequadas para o funcionamento adequado das células e dos sistemas do corpo.,0.0,0.0
+Biologia,Geral,O que é osmose?,"A osmose é o movimento de água através de uma membrana semipermeável, do meio com menor concentração de solutos para o meio com maior ",0.0,0.0
+Biologia,Geral,O que são células procarióticas?,"Células procarióticas são células que não possuem um núcleo definido e organelas membranosas, sendo encontradas em bactérias e arqueias.",0.0,0.0
+Biologia,Geral,O que são célular eucarióticas?,"Células eucarióticas são células que possuem um núcleo definido, envolvido por uma membrana nuclear, e organelas membranosas, sendo encontradas em organismos multicelulares, como animais, plantas e fungos.",0.0,0.0
+Biologia,Geral,O que é a teoria da evolução por seleção natural?,"A teoria da evolução por seleção natural, proposta por Charles Darwin, afirma que os organismos mais bem adaptados ao ambiente têm mais chances de sobreviver e se reproduzir, transmitindo suas características vantajosas às gerações futuras.",0.0,0.0
+Biologia,Geral,O que são enzimas?,"Enzimas são proteínas especializadas que atuam como catalisadoras de reações químicas no interior das células, acelerando as taxas das reações biológicas.",0.0,0.0
+Biologia,Geral,Explique a cadeia alimentar:,"A cadeia alimentar é uma sequência linear de organismos em que cada um serve de alimento para o próximo, mostrando as interações alimentares em um ecossistema.",0.0,0.0
+Biologia,Geral,O que são neurotransmissores?,"Neurotransmissores são substâncias químicas produzidas pelos neurônios que transmitem sinais elétricos e químicos entre as células nervosas, permitindo a comunicação no sistema nervoso.",0.0,0.0
+Biologia,Geral,O que é hereditariedade?,"A hereditariedade é a transmissão de características genéticas de uma geração para outra, ocorrendo por meio do DNA contido nos genes dos organismos.",0.0,0.0
+Biologia,Geral,O que é a síntese proteica?,A síntese proteica é o processo pelo qual as células produzem proteínas a partir das informações contidas no DNA.,0.0,0.0
+Biologia,Geral,O que é bioacumulação?,"A bioacumulação é o acúmulo progressivo de substâncias tóxicas em organismos ao longo da cadeia alimentar, resultando em concentrações cada vez mais elevadas dessas substâncias nos níveis tróficos superiores.",0.0,0.0
+Biologia,Geral,Explique o que é homeostase térmica:,"A homeostase térmica é a capacidade do organismo de manter uma temperatura corporal estável e adequada para o seu funcionamento, mesmo diante de mudanças no ambiente externo.",0.0,0.0
+Biologia,Geral,Explique a cadeia respiratória:,"A cadeia respiratória é um processo metabólico que ocorre nas mitocôndrias, no qual ocorre a produção de energia na forma de ATP a partir da oxidação de moléculas de nutrientes.",0.0,0.0
+Química,Geral,Teste,teste,0.0,0.0
+Química,Geral,Teste de pergunta,Teste de pergunta,0.0,0.0
